@@ -1,0 +1,17 @@
+{
+  "name": "playwright-framework-portfolio",
+  "version": "1.0.0",
+  "description": "UI + API + E2E Playwright automation framework (portfolio project)",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test tests/ui",
+    "test:api": "playwright test tests/api",
+    "test:e2e": "playwright test tests/e2e",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0",
+    "typescript": "^6.0.3"
+  }
+}
