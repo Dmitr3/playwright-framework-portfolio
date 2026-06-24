@@ -19,7 +19,7 @@ The framework demonstrates a real-world QA automation structure including:
 
 ## 🔥 CI Badge
 
-![Playwright Tests](https://github.com/Dmitr3/<YOUR_REPO>/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests](https://github.com/Dmitr3/playwright-framework-portfolio/actions/workflows/playwright.yml/badge.svg)
 
 ## 🧱 Tech Stack
 
