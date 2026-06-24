@@ -13,7 +13,7 @@ The framework demonstrates a real-world QA automation structure including:
 - Custom fixtures
 - Scalable test architecture
 
-👉 Full technical documentation: `docs/framework-overview.md`
+👉 [Full technical documentation](docs/framework-overview.md)
 
 ---
 
@@ -85,10 +85,14 @@ docs/            # Documentation
 
 🚀 Execution
 
-Run all tests: `npm test`
-Run UI tests: `npm run test:ui`
-Run API tests: `npm run test:api`
-Run E2E tests: `npm run test:e2e`
+Run all tests:
+`npm test`
+Run UI tests:
+`npm run test:ui`
+Run API tests:
+`npm run test:api`
+Run E2E tests:
+`npm run test:e2e`
 
 📊 Reporting
 
@@ -121,4 +125,4 @@ This project demonstrates a real-world QA automation framework that shows:
 
 📚 Documentation
 
-👉 Architecture details: docs/framework-overview.md
+👉 [Architecture details](docs/framework-overview.md)
