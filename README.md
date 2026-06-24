@@ -81,23 +81,25 @@ fixtures/        # Playwright fixtures (DI layer)
 test-data/       # Static test data
 utils/           # Helpers and utilities
 docs/            # Documentation
+```
 
 🚀 Execution
 
-Run all tests: npm test
-Run UI tests: npm run test:ui
-Run API tests: npm run test:api
-Run E2E tests: npm run test:e2e
+Run all tests: `npm test`
+Run UI tests: `npm run test:ui`
+Run API tests: `npm run test:api`
+Run E2E tests: `npm run test:e2e`
 
 📊 Reporting
 
 Playwright provides built-in reporting:
+
 - HTML Report
 - Trace Viewer
 - Screenshots on failure
 - Video recording on failure
 
-To open report: npm run report
+To open report: `npm run report`
 
 🧠 Key Principles
 
@@ -110,6 +112,7 @@ To open report: npm run report
 🎯 Goal of this Project
 
 This project demonstrates a real-world QA automation framework that shows:
+
 - scalable architecture
 - clean separation of layers
 - API + UI + E2E strategy
@@ -119,4 +122,3 @@ This project demonstrates a real-world QA automation framework that shows:
 📚 Documentation
 
 👉 Architecture details: docs/framework-overview.md
-```
